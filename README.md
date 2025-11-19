@@ -1,3 +1,2 @@
-#issue 3 --> fix login button
-fixes #3
-This is a demo project to test branches, commits, and issues.
+Fix typo in README #3
+This is a demo project to test branches, commits, and issues. 
